@@ -1,0 +1,33 @@
+{
+  "name": "mdx-render",
+  "version": "1.0.0",
+  "description": "Convert .mdx files to standalone HTML with embedded React components",
+  "type": "module",
+  "bin": {
+    "mdx-render": "./src/cli.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "files": [
+    "src/"
+  ],
+  "keywords": [
+    "mdx",
+    "markdown",
+    "react",
+    "html",
+    "cli",
+    "converter"
+  ],
+  "author": "Bruno Pedro",
+  "license": "MIT",
+  "dependencies": {
+    "@mdx-js/mdx": "^3.1.1",
+    "commander": "^14.0.3",
+    "esbuild": "^0.25.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "remark-gfm": "^4.0.1"
+  }
+}

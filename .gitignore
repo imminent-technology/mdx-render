@@ -1,0 +1,4 @@
+node_modules/
+
+# Generated HTML output from the CLI (fixture test outputs)
+fixtures/*.html

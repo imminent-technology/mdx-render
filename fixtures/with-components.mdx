@@ -1,0 +1,31 @@
+# Interactive Components Demo
+
+This document uses custom React components bundled by `mdx-render`.
+
+## Counter
+
+Click the buttons to increment or decrement:
+
+<Counter start={10} />
+
+## Callouts
+
+<Callout type="info">
+  This is an informational callout. Components receive props and render normally.
+</Callout>
+
+<Callout type="warning">
+  This is a warning. Pass `type="warning"` or `type="danger"` for different styles.
+</Callout>
+
+## Mixed content
+
+You can mix components with regular Markdown freely.
+
+| Feature | Supported |
+|---|---|
+| Custom components | ✅ |
+| Inline JSX expressions | ✅ |
+| Standard Markdown | ✅ |
+
+The answer is {6 * 7}.
