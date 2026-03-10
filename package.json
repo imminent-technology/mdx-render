@@ -1,6 +1,6 @@
 {
   "name": "@imminent/mdx-render",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Convert .mdx files to standalone HTML with embedded React components",
   "type": "module",
   "bin": {
