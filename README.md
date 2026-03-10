@@ -7,7 +7,7 @@ The output is a single self-contained `.html` file — no server required. Open 
 ## Install
 
 ```bash
-npm install -g mdx-render
+npm install -g @imminent/mdx-render
 ```
 
 ## Usage
