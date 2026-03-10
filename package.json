@@ -1,6 +1,6 @@
 {
   "name": "mdx-render",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Convert .mdx files to standalone HTML with embedded React components",
   "type": "module",
   "bin": {
