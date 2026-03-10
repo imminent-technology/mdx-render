@@ -1,0 +1,21 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.37",
+  "base_commit_sha": "bcddb70148e01e5059dae23ac7de4190dcd4cc73",
+  "prompts": {
+    "5fd5f16bcf1ecfac": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "2359eea6-bdc7-4d91-a4ea-0cf90a1fd33d",
+        "model": "unknown"
+      },
+      "human_author": "Bruno Luis Goncalves Pedro <brunolgp@inditex.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  }
+}
