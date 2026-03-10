@@ -1,0 +1,25 @@
+test/config.test.js
+  5fd5f16bcf1ecfac 3,14
+package.json
+  5fd5f16bcf1ecfac 25-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.37",
+  "base_commit_sha": "49745fab3369eb8c77f826116e6d19371a3a3e72",
+  "prompts": {
+    "5fd5f16bcf1ecfac": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "2359eea6-bdc7-4d91-a4ea-0cf90a1fd33d",
+        "model": "unknown"
+      },
+      "human_author": "Bruno Luis Goncalves Pedro <brunolgp@inditex.com>",
+      "messages": [],
+      "total_additions": 6,
+      "total_deletions": 3,
+      "accepted_lines": 5,
+      "overriden_lines": 0
+    }
+  }
+}
